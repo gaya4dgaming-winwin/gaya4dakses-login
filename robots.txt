@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gaya4dakses-login.vercel.app/sitemap.xml
